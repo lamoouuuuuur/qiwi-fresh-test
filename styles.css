@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+#currencySelector {
+    font-size: 16px;
+    padding: 10px;
+}
+
+#currencyInfo {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    box-shadow: 5px 5px 5px #ccc;
+}
+
+#currencyInfo p {
+    margin: 5px 0;
+}
